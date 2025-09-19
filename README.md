@@ -29,14 +29,15 @@ or, only test model setting only_test True.
 Additionally, a pre-trained model can be downloaded from folder 'pre-trained'.
 
 markdown
-< @article{lim2021radical,
-<  title={Radical: A synchronized fmcw radar, depth, imu and rgb camera data dataset with low-level fmcw radar signals},
-<  author={Lim, Teck-Yian and Markowitz, Spencer A and Do, Minh N},
-<  journal={IEEE Journal of Selected Topics in Signal Processing},
-<  volume={15},
-<  number={4},
-<  pages={941--953},
-<  year={2021},
-<  publisher={IEEE}
-< }
-
+```bibtex
+ @article{lim2021radical,
+  title={Radical: A synchronized fmcw radar, depth, imu and rgb camera data dataset with low-level fmcw radar signals},
+  author={Lim, Teck-Yian and Markowitz, Spencer A and Do, Minh N},
+  journal={IEEE Journal of Selected Topics in Signal Processing},
+  volume={15},
+  number={4},
+  pages={941--953},
+  year={2021},
+  publisher={IEEE}
+ }
+```
