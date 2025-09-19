@@ -28,7 +28,7 @@ or, only test model setting only_test True.
 
 Additionally, a pre-trained model can be downloaded from folder 'pre-trained'.
 
-markdown
+
 ```bibtex
  @article{lim2021radical,
   title={Radical: A synchronized fmcw radar, depth, imu and rgb camera data dataset with low-level fmcw radar signals},
